@@ -1,6 +1,6 @@
 {
   "name": "ROYaLBABA4u",
-  "description": "THE ROYALBABA4u MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @royalashu4u FOR HELP ",
+  "description": "THE ROYALBABA4u MADED BY @royalashu4u ; JOIN @royalashu4u FOR HELP ",
   "logo": "https://telegra.ph/file/4a58ef0dbf877a59552c8.jpg",
     "keywords": [
     "telegram",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @royalashu4u.",
       "value": "",
       "required": false
     },
